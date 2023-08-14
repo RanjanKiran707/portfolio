@@ -4,7 +4,7 @@ A beautiful portfolio app built with Flutter web to showcase my work as a develo
 
 ## 🚀 Live Demo
 
-You can find a live demo [here]([https://ranjan.dev](https://portfolio-9a909.web.app/#/))
+You can find a live demo [here](https://portfolio-9a909.web.app/#/).
 
 ### Desktop
 
