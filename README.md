@@ -1,16 +1,30 @@
-# portfolio
+# ✨ Ranjan's Dev Portfolio
 
-A new Flutter project.
+A beautiful portfolio app built with Flutter web to showcase my work as a developer. 
 
-## Getting Started
+### Desktop
 
-This project is a starting point for a Flutter application.
+![Desktop](/preview/video.gif)
 
-A few resources to get you started if this is your first Flutter project:
+### Mobile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Mobile](/preview/mobile.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Features
+
+- 💻 Fully responsive design
+- ⚡️ Lightning fast with Flutter web
+- 📱 Mobile, desktop, and web support
+
+## 🛠 Built With
+
+- [Flutter](https://flutter.dev/)
+- [Flutter Web](https://flutter.dev/web)
+
+## 🚀 Live Demo
+
+You can find a live demo at [ranjan.dev](https://ranjan.dev)
+
+## 🙌 Inspiration
+
+Inspired from this site https://brittanychiang.com/.
